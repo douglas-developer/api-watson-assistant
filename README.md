@@ -1,5 +1,8 @@
 # chatbot
 
+Trata-se de uma aplicação em Node.js utilizando o framework Sails.js.
+
+
 a [Sails v1](https://sailsjs.com) application
 
 
